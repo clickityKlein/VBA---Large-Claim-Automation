@@ -6,3 +6,8 @@ This model also contains several error handling features, some of the more impor
 - Dates: Improper Formatting
 - Dates: Outside of Specified Time Period
 - Data: Expense Dropping Below Reporting Threshold (i.e. appears in the initial months, disappears in future months)
+
+## How to Use the Model
+A "Toggle Help" button is included on the "Input" tab, simply follow those directions:
+
+![Toggle Help](/relative/path/to/img.png?raw=true "Toggle Help")
