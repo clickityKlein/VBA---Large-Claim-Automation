@@ -13,4 +13,6 @@ A "Help Toggle" button is included on the "Input" tab, simply follow those direc
 ![Toggle Help](ToggleHelp.png)
 
 ## Example
+Uses randomly generated numbers over a 12-month period for five unique expenses, here is an example of the Input and Output of the model:
 
+![Input and Output](InputOutput.pdf)
