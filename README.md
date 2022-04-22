@@ -8,6 +8,9 @@ This model also contains several error handling features, some of the more impor
 - Data: Expense Dropping Below Reporting Threshold (i.e. appears in the initial months, disappears in future months)
 
 ## How to Use the Model
-A "Toggle Help" button is included on the "Input" tab, simply follow those directions:
+A "Help Toggle" button is included on the "Input" tab, simply follow those directions:
 
-![Toggle Help](/VBA-Large-Claim-Automation/.png?raw=true "Toggle Help")
+![Toggle Help](ToggleHelp.png)
+
+## Example
+
