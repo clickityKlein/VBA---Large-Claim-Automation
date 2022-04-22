@@ -13,6 +13,13 @@ A "Help Toggle" button is included on the "Input" tab, simply follow those direc
 ![Toggle Help](ToggleHelp.png)
 
 ## Example
-Uses randomly generated numbers over a 12-month period for five unique expenses, here is an example of the Input and Output of the model:
+here is an example of the Input and Output of the model using randomly generated numbers over a 12-month period for five unique expenses:
 
-![Input and Output](InputOutput.pdf)
+- Input
+![Input and Output](InputPic.png)
+
+-Output
+![Input and Output](OutputPic.png)
+
+## Conclusion
+Excel and other analytical tools have methods to achieve the Output presented in this model that don't require VBA or other programming concepts. However, when creating numerous reports that work with different sized datasets over different periods of time, this tool will help increase yield and reduce error.
