@@ -10,4 +10,4 @@ This model also contains several error handling features, some of the more impor
 ## How to Use the Model
 A "Toggle Help" button is included on the "Input" tab, simply follow those directions:
 
-![Toggle Help](/relative/path/to/img.png?raw=true "Toggle Help")
+![Toggle Help](/VBA-Large-Claim-Automation/.png?raw=true "Toggle Help")
